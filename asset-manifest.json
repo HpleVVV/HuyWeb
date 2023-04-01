@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HuyWeb/static/css/main.169263ee.css",
-    "main.js": "/HuyWeb/static/js/main.719446df.js",
+    "main.js": "/HuyWeb/static/js/main.b8bedac5.js",
     "static/js/415.4d6acbeb.chunk.js": "/HuyWeb/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/HuyWeb/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/HuyWeb/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/HuyWeb/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/HuyWeb/index.html",
     "main.169263ee.css.map": "/HuyWeb/static/css/main.169263ee.css.map",
-    "main.719446df.js.map": "/HuyWeb/static/js/main.719446df.js.map",
+    "main.b8bedac5.js.map": "/HuyWeb/static/js/main.b8bedac5.js.map",
     "415.4d6acbeb.chunk.js.map": "/HuyWeb/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/HuyWeb/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.169263ee.css",
-    "static/js/main.719446df.js"
+    "static/js/main.b8bedac5.js"
   ]
 }
