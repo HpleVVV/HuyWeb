@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HuyWeb/static/css/main.f965fa34.css",
-    "main.js": "/HuyWeb/static/js/main.7f9b42ee.js",
+    "main.css": "/HuyWeb/static/css/main.169263ee.css",
+    "main.js": "/HuyWeb/static/js/main.719446df.js",
     "static/js/415.4d6acbeb.chunk.js": "/HuyWeb/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/HuyWeb/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/HuyWeb/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -9,21 +9,21 @@
     "static/media/suicide.png": "/HuyWeb/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/HuyWeb/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/HuyWeb/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/HuyWeb/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/HuyWeb/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/HuyWeb/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/HuyWeb/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/TienHuyResume.pdf": "/HuyWeb/static/media/TienHuyResume.faf918631bcb4527edb4.pdf",
     "static/media/home-bg.jpg": "/HuyWeb/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/HuyWeb/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/HuyWeb/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/avatar.svg": "/HuyWeb/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/HuyWeb/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/HuyWeb/index.html",
-    "main.f965fa34.css.map": "/HuyWeb/static/css/main.f965fa34.css.map",
-    "main.7f9b42ee.js.map": "/HuyWeb/static/js/main.7f9b42ee.js.map",
+    "main.169263ee.css.map": "/HuyWeb/static/css/main.169263ee.css.map",
+    "main.719446df.js.map": "/HuyWeb/static/js/main.719446df.js.map",
     "415.4d6acbeb.chunk.js.map": "/HuyWeb/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/HuyWeb/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f965fa34.css",
-    "static/js/main.7f9b42ee.js"
+    "static/css/main.169263ee.css",
+    "static/js/main.719446df.js"
   ]
 }
